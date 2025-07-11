@@ -1,0 +1,158 @@
+[
+  {
+    "_id": "cart001",
+    "userId": "user001",
+    "items": [
+      {
+        "productId": "prod101",
+        "name": "iPhone 15",
+        "price": 79999,
+        "quantity": 1,
+        "addedAt": "2025-07-07T09:00:00Z"
+      },
+      {
+        "productId": "prod105",
+        "name": "AirPods Pro",
+        "price": 24999,
+        "quantity": 2,
+        "addedAt": "2025-07-07T09:01:00Z"
+      }
+    ],
+    "createdAt": "2025-07-07T09:00:00Z",
+    "updatedAt": "2025-07-07T09:05:00Z"
+  },
+  {
+    "_id": "cart002",
+    "userId": "user002",
+    "items": [
+      {
+        "productId": "prod110",
+        "name": "Redmi Smart TV",
+        "price": 35999,
+        "quantity": 1,
+        "addedAt": "2025-07-06T12:22:00Z"
+      }
+    ],
+    "createdAt": "2025-07-06T12:22:00Z",
+    "updatedAt": "2025-07-06T12:22:00Z"
+  },
+  {
+    "_id": "cart003",
+    "userId": "user003",
+    "items": [
+      {
+        "productId": "prod109",
+        "name": "Dell Laptop Bag",
+        "price": 1999,
+        "quantity": 2,
+        "addedAt": "2025-07-05T15:33:00Z"
+      }
+    ],
+    "createdAt": "2025-07-05T15:33:00Z",
+    "updatedAt": "2025-07-05T15:40:00Z"
+  },
+  {
+    "_id": "cart004",
+    "userId": "user004",
+    "items": [
+      {
+        "productId": "prod108",
+        "name": "MacBook Pro M3",
+        "price": 199999,
+        "quantity": 1,
+        "addedAt": "2025-07-05T11:20:00Z"
+      }
+    ],
+    "createdAt": "2025-07-05T11:20:00Z",
+    "updatedAt": "2025-07-05T11:21:00Z"
+  },
+  {
+    "_id": "cart005",
+    "userId": "user005",
+    "items": [
+      {
+        "productId": "prod102",
+        "name": "Samsung S24 Ultra",
+        "price": 119999,
+        "quantity": 1,
+        "addedAt": "2025-07-04T14:05:00Z"
+      }
+    ],
+    "createdAt": "2025-07-04T14:05:00Z",
+    "updatedAt": "2025-07-04T14:10:00Z"
+  },
+  {
+    "_id": "cart006",
+    "userId": "user006",
+    "items": [
+      {
+        "productId": "prod106",
+        "name": "Noise Smartwatch",
+        "price": 4999,
+        "quantity": 2,
+        "addedAt": "2025-07-04T08:45:00Z"
+      },
+      {
+        "productId": "prod107",
+        "name": "JBL Bluetooth Speaker",
+        "price": 2999,
+        "quantity": 1,
+        "addedAt": "2025-07-04T08:46:00Z"
+      }
+    ],
+    "createdAt": "2025-07-04T08:45:00Z",
+    "updatedAt": "2025-07-04T08:50:00Z"
+  },
+  {
+    "_id": "cart007",
+    "userId": "user007",
+    "items": [],
+    "createdAt": "2025-07-03T17:00:00Z",
+    "updatedAt": "2025-07-03T17:00:00Z"
+  },
+  {
+    "_id": "cart008",
+    "userId": "user008",
+    "items": [
+      {
+        "productId": "prod111",
+        "name": "HP Wireless Mouse",
+        "price": 1299,
+        "quantity": 3,
+        "addedAt": "2025-07-02T11:11:00Z"
+      }
+    ],
+    "createdAt": "2025-07-02T11:11:00Z",
+    "updatedAt": "2025-07-02T11:12:00Z"
+  },
+  {
+    "_id": "cart009",
+    "userId": "user009",
+    "items": [
+      {
+        "productId": "prod112",
+        "name": "MI Powerbank",
+        "price": 1799,
+        "quantity": 1,
+        "addedAt": "2025-07-01T18:05:00Z"
+      }
+    ],
+    "createdAt": "2025-07-01T18:05:00Z",
+    "updatedAt": "2025-07-01T18:06:00Z"
+  },
+  {
+    "_id": "cart010",
+    "userId": "user010",
+    "items": [
+      {
+        "productId": "prod113",
+        "name": "Amazon Kindle",
+        "price": 8999,
+        "quantity": 1,
+        "addedAt": "2025-07-01T09:00:00Z"
+      }
+    ],
+    "createdAt": "2025-07-01T09:00:00Z",
+    "updatedAt": "2025-07-01T09:01:00Z"
+  }
+]

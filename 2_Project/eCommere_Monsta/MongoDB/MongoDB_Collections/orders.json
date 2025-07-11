@@ -1,0 +1,172 @@
+[
+  {
+    "_id": "d8185500-ed6d-4949-b240-7b8b835de4e7",
+    "userId": "8b851f2c-acb7-4cda-ae81-0dc63ed47669",
+    "items": [
+      {
+        "productId": "fa66213f-f6ac-4abc-b964-bd0245b3267d",
+        "name": "Product 1",
+        "priceAtPurchase": 27630,
+        "qty": 2
+      }
+    ],
+    "total": 53626,
+    "status": "shipped",
+    "orderDate": "2025-07-05T02:42:14.454176Z",
+    "createdAt": "2025-07-04T02:42:14.454185Z",
+    "updatedAt": "2025-07-03T02:42:14.454191Z"
+  },
+  {
+    "_id": "c79f9cca-f093-4fcd-9a7a-d59e93b47204",
+    "userId": "13a488d6-0b4e-4668-a721-562e73cf7391",
+    "items": [
+      {
+        "productId": "5372f38b-3e76-4668-861a-b2275c0ec0cd",
+        "name": "Product 2",
+        "priceAtPurchase": 19357,
+        "qty": 3
+      }
+    ],
+    "total": 137222,
+    "status": "processing",
+    "orderDate": "2025-07-02T02:42:14.454203Z",
+    "createdAt": "2025-07-08T02:42:14.454208Z",
+    "updatedAt": "2025-07-08T02:42:14.454213Z"
+  },
+  {
+    "_id": "11484a76-44e6-48dd-ab38-4dd85180679d",
+    "userId": "8b851f2c-acb7-4cda-ae81-0dc63ed47669",
+    "items": [
+      {
+        "productId": "a5521d83-0f22-4379-a552-6d786d2fba61",
+        "name": "Product 3",
+        "priceAtPurchase": 12633,
+        "qty": 2
+      }
+    ],
+    "total": 16073,
+    "status": "processing",
+    "orderDate": "2025-07-06T02:42:14.454225Z",
+    "createdAt": "2025-07-09T02:42:14.454230Z",
+    "updatedAt": "2025-07-07T02:42:14.454236Z"
+  },
+  {
+    "_id": "f675e8e9-a676-4636-9fe4-778a5053d257",
+    "userId": "050265cc-5f0f-4e5e-bdf4-d11543b30016",
+    "items": [
+      {
+        "productId": "ac865fe8-31cb-4377-8578-3d46c5d98b65",
+        "name": "Product 4",
+        "priceAtPurchase": 42686,
+        "qty": 1
+      }
+    ],
+    "total": 20742,
+    "status": "delivered",
+    "orderDate": "2025-07-04T02:42:14.454247Z",
+    "createdAt": "2025-07-11T02:42:14.454252Z",
+    "updatedAt": "2025-07-08T02:42:14.454258Z"
+  },
+  {
+    "_id": "2c5566a2-34f9-4468-9bdb-2b9d16bc4ab9",
+    "userId": "43d7adf4-34f3-47e5-b9ca-4d11aa928ad8",
+    "items": [
+      {
+        "productId": "d6137c36-abe0-4239-8710-5df77ecec93d",
+        "name": "Product 5",
+        "priceAtPurchase": 4464,
+        "qty": 2
+      }
+    ],
+    "total": 33978,
+    "status": "processing",
+    "orderDate": "2025-07-08T02:42:14.454270Z",
+    "createdAt": "2025-07-05T02:42:14.454275Z",
+    "updatedAt": "2025-07-01T02:42:14.454280Z"
+  },
+  {
+    "_id": "a4e5e240-4df6-4be8-a7f1-87da20c8a5d2",
+    "userId": "1cd4da63-dbcb-4937-87c1-f23fcd8846d6",
+    "items": [
+      {
+        "productId": "dd383d5f-8065-4b7f-bccb-783ae1fa0681",
+        "name": "Product 6",
+        "priceAtPurchase": 19389,
+        "qty": 1
+      }
+    ],
+    "total": 59271,
+    "status": "processing",
+    "orderDate": "2025-07-11T02:42:14.454293Z",
+    "createdAt": "2025-07-07T02:42:14.454297Z",
+    "updatedAt": "2025-07-08T02:42:14.454302Z"
+  },
+  {
+    "_id": "56c29840-5e9f-424c-a7f8-96816a779c47",
+    "userId": "2eaaf3e4-9733-4511-9e78-6952727847c1",
+    "items": [
+      {
+        "productId": "dd383d5f-8065-4b7f-bccb-783ae1fa0681",
+        "name": "Product 7",
+        "priceAtPurchase": 13294,
+        "qty": 2
+      }
+    ],
+    "total": 104314,
+    "status": "processing",
+    "orderDate": "2025-07-08T02:42:14.454313Z",
+    "createdAt": "2025-07-01T02:42:14.454319Z",
+    "updatedAt": "2025-07-07T02:42:14.454324Z"
+  },
+  {
+    "_id": "2ab65b3c-86b7-40f7-ba12-2bf72bdb82a3",
+    "userId": "43d7adf4-34f3-47e5-b9ca-4d11aa928ad8",
+    "items": [
+      {
+        "productId": "fa66213f-f6ac-4abc-b964-bd0245b3267d",
+        "name": "Product 8",
+        "priceAtPurchase": 17088,
+        "qty": 2
+      }
+    ],
+    "total": 68078,
+    "status": "shipped",
+    "orderDate": "2025-07-03T02:42:14.454490Z",
+    "createdAt": "2025-07-08T02:42:14.454496Z",
+    "updatedAt": "2025-07-06T02:42:14.454501Z"
+  },
+  {
+    "_id": "10c33c90-10b2-402e-b969-6d68b8c560ab",
+    "userId": "050265cc-5f0f-4e5e-bdf4-d11543b30016",
+    "items": [
+      {
+        "productId": "a5521d83-0f22-4379-a552-6d786d2fba61",
+        "name": "Product 9",
+        "priceAtPurchase": 35840,
+        "qty": 3
+      }
+    ],
+    "total": 44515,
+    "status": "shipped",
+    "orderDate": "2025-07-07T02:42:14.454514Z",
+    "createdAt": "2025-07-05T02:42:14.454519Z",
+    "updatedAt": "2025-07-07T02:42:14.454524Z"
+  },
+  {
+    "_id": "3c1a78b9-c5e9-4f50-ae77-209b4979b31a",
+    "userId": "f2e1d1bb-90fb-4ca6-9922-d793f8d939e6",
+    "items": [
+      {
+        "productId": "931bf7cc-030d-4459-8dc6-3f8940d300df",
+        "name": "Product 10",
+        "priceAtPurchase": 23147,
+        "qty": 2
+      }
+    ],
+    "total": 109539,
+    "status": "processing",
+    "orderDate": "2025-07-03T02:42:14.454536Z",
+    "createdAt": "2025-07-04T02:42:14.454542Z",
+    "updatedAt": "2025-07-06T02:42:14.454546Z"
+  }
+]

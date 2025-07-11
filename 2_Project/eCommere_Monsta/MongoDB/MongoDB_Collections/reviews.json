@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "acc191d8-32bb-4fe1-8f80-e3d9cf13f02c",
+    "productId": "2a04c145-dd11-4a50-b984-4b4c0ed9330c",
+    "userId": "13a488d6-0b4e-4668-a721-562e73cf7391",
+    "rating": 3,
+    "comment": "This is review 1",
+    "createdAt": "2025-07-10T02:42:14.454741Z",
+    "updatedAt": "2025-07-03T02:42:14.454749Z"
+  },
+  {
+    "_id": "aca62c80-255e-4384-bda1-2be994ff0b60",
+    "productId": "fedc0e0f-139d-4a33-ba1d-fd248b0ce51d",
+    "userId": "8b851f2c-acb7-4cda-ae81-0dc63ed47669",
+    "rating": 4,
+    "comment": "This is review 2",
+    "createdAt": "2025-07-04T02:42:14.454758Z",
+    "updatedAt": "2025-07-11T02:42:14.454764Z"
+  },
+  {
+    "_id": "06e07790-9171-4e4d-bc7b-746470f9b792",
+    "productId": "ac865fe8-31cb-4377-8578-3d46c5d98b65",
+    "userId": "050265cc-5f0f-4e5e-bdf4-d11543b30016",
+    "rating": 1,
+    "comment": "This is review 3",
+    "createdAt": "2025-07-06T02:42:14.454772Z",
+    "updatedAt": "2025-07-10T02:42:14.454777Z"
+  },
+  {
+    "_id": "c81bff17-9487-4031-ae61-48661069c952",
+    "productId": "dd383d5f-8065-4b7f-bccb-783ae1fa0681",
+    "userId": "2eaaf3e4-9733-4511-9e78-6952727847c1",
+    "rating": 3,
+    "comment": "This is review 4",
+    "createdAt": "2025-07-09T02:42:14.454786Z",
+    "updatedAt": "2025-07-06T02:42:14.454791Z"
+  },
+  {
+    "_id": "fdb82924-2507-4b44-907e-a4de472ff7c2",
+    "productId": "dd383d5f-8065-4b7f-bccb-783ae1fa0681",
+    "userId": "f2e1d1bb-90fb-4ca6-9922-d793f8d939e6",
+    "rating": 4,
+    "comment": "This is review 5",
+    "createdAt": "2025-07-10T02:42:14.454818Z",
+    "updatedAt": "2025-07-11T02:42:14.454824Z"
+  },
+  {
+    "_id": "7fd26573-6bd0-47ff-97fc-66b4131eb9fa",
+    "productId": "fa66213f-f6ac-4abc-b964-bd0245b3267d",
+    "userId": "1cd4da63-dbcb-4937-87c1-f23fcd8846d6",
+    "rating": 3,
+    "comment": "This is review 6",
+    "createdAt": "2025-07-09T02:42:14.454832Z",
+    "updatedAt": "2025-07-05T02:42:14.454838Z"
+  },
+  {
+    "_id": "56789a77-f93e-4bac-9d4f-5a0a793013c1",
+    "productId": "fa66213f-f6ac-4abc-b964-bd0245b3267d",
+    "userId": "2eaaf3e4-9733-4511-9e78-6952727847c1",
+    "rating": 3,
+    "comment": "This is review 7",
+    "createdAt": "2025-07-09T02:42:14.454846Z",
+    "updatedAt": "2025-07-11T02:42:14.454851Z"
+  },
+  {
+    "_id": "1245fe8c-a693-4d71-bec0-b04558976d23",
+    "productId": "ac865fe8-31cb-4377-8578-3d46c5d98b65",
+    "userId": "1cd4da63-dbcb-4937-87c1-f23fcd8846d6",
+    "rating": 5,
+    "comment": "This is review 8",
+    "createdAt": "2025-07-06T02:42:14.454861Z",
+    "updatedAt": "2025-07-01T02:42:14.454866Z"
+  },
+  {
+    "_id": "9a58670d-11ac-451e-bea9-1efc274264bd",
+    "productId": "931bf7cc-030d-4459-8dc6-3f8940d300df",
+    "userId": "13a488d6-0b4e-4668-a721-562e73cf7391",
+    "rating": 4,
+    "comment": "This is review 9",
+    "createdAt": "2025-07-03T02:42:14.454874Z",
+    "updatedAt": "2025-07-01T02:42:14.454879Z"
+  },
+  {
+    "_id": "30d76a2b-8150-4909-949f-5e74e050b044",
+    "productId": "2a04c145-dd11-4a50-b984-4b4c0ed9330c",
+    "userId": "f2e1d1bb-90fb-4ca6-9922-d793f8d939e6",
+    "rating": 4,
+    "comment": "This is review 10",
+    "createdAt": "2025-07-07T02:42:14.454887Z",
+    "updatedAt": "2025-07-09T02:42:14.454893Z"
+  }
+]

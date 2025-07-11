@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "b1cc7325-b363-40e9-bec0-9d2a65c52a67",
+    "name": "Seller 1",
+    "email": "seller1@store.com",
+    "gst": "33AAAPT0A1Z0",
+    "address": {
+      "city": "MetroCity",
+      "zip": "56000"
+    },
+    "createdAt": "2025-07-02T02:42:14.453078Z",
+    "updatedAt": "2025-07-10T02:42:14.453087Z"
+  },
+  {
+    "_id": "d793bc75-56be-4fbb-88d4-4ca6fe90fcc3",
+    "name": "Seller 2",
+    "email": "seller2@store.com",
+    "gst": "33AAAPT1A1Z1",
+    "address": {
+      "city": "MetroCity",
+      "zip": "56001"
+    },
+    "createdAt": "2025-07-07T02:42:14.453094Z",
+    "updatedAt": "2025-07-07T02:42:14.453099Z"
+  },
+  {
+    "_id": "f07ea2f6-33a6-4b0d-829f-18da167eabea",
+    "name": "Seller 3",
+    "email": "seller3@store.com",
+    "gst": "33AAAPT2A1Z2",
+    "address": {
+      "city": "MetroCity",
+      "zip": "56002"
+    },
+    "createdAt": "2025-07-02T02:42:14.453106Z",
+    "updatedAt": "2025-07-06T02:42:14.453111Z"
+  },
+  {
+    "_id": "7ea45eed-b006-4b4b-b6b6-674173a6f206",
+    "name": "Seller 4",
+    "email": "seller4@store.com",
+    "gst": "33AAAPT3A1Z3",
+    "address": {
+      "city": "MetroCity",
+      "zip": "56003"
+    },
+    "createdAt": "2025-07-08T02:42:14.453117Z",
+    "updatedAt": "2025-07-10T02:42:14.453122Z"
+  },
+  {
+    "_id": "d3d4303f-a595-4dc9-818d-fca94d28c5cf",
+    "name": "Seller 5",
+    "email": "seller5@store.com",
+    "gst": "33AAAPT4A1Z4",
+    "address": {
+      "city": "MetroCity",
+      "zip": "56004"
+    },
+    "createdAt": "2025-07-01T02:42:14.453131Z",
+    "updatedAt": "2025-07-07T02:42:14.453136Z"
+  }
+]

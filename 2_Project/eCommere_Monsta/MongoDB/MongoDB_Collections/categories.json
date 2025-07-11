@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "a890bc66-b696-4527-815a-c41a9dd8da26",
+    "name": "Electronics",
+    "createdAt": "2025-07-08T02:42:14.453272Z",
+    "updatedAt": "2025-07-07T02:42:14.453281Z"
+  },
+  {
+    "_id": "0261c3ac-0bee-4121-ba16-669c8071d33a",
+    "name": "Fashion",
+    "createdAt": "2025-07-05T02:42:14.453287Z",
+    "updatedAt": "2025-07-02T02:42:14.453293Z"
+  },
+  {
+    "_id": "1f36d747-22c1-43eb-9ad7-351f470bca40",
+    "name": "Home Appliances",
+    "createdAt": "2025-07-07T02:42:14.453298Z",
+    "updatedAt": "2025-07-06T02:42:14.453303Z"
+  },
+  {
+    "_id": "bb024fc5-2d3e-43be-98be-ec76a3be5501",
+    "name": "Books",
+    "createdAt": "2025-07-06T02:42:14.453309Z",
+    "updatedAt": "2025-07-02T02:42:14.453314Z"
+  },
+  {
+    "_id": "5960d6ae-b141-4dff-a8bf-2e5df97b41b1",
+    "name": "Fitness",
+    "createdAt": "2025-07-10T02:42:14.453319Z",
+    "updatedAt": "2025-07-07T02:42:14.453324Z"
+  }
+]

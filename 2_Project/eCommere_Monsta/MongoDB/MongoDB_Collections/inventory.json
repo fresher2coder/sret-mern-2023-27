@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "27768d96-240c-4fac-9745-cfcf1b3cc085",
+    "productId": "5372f38b-3e76-4668-861a-b2275c0ec0cd",
+    "sellerId": "b1cc7325-b363-40e9-bec0-9d2a65c52a67",
+    "quantityAvailable": 50,
+    "reorderLevel": 5,
+    "createdAt": "2025-07-06T02:42:14.453791Z",
+    "updatedAt": "2025-07-08T02:42:14.453799Z"
+  },
+  {
+    "_id": "0cbced6d-5151-484b-a41e-a4d0a04bd002",
+    "productId": "fa66213f-f6ac-4abc-b964-bd0245b3267d",
+    "sellerId": "b1cc7325-b363-40e9-bec0-9d2a65c52a67",
+    "quantityAvailable": 24,
+    "reorderLevel": 5,
+    "createdAt": "2025-07-02T02:42:14.453808Z",
+    "updatedAt": "2025-07-09T02:42:14.453814Z"
+  },
+  {
+    "_id": "b12078ac-3f8c-433f-8e4c-e5df1c9cf691",
+    "productId": "2a04c145-dd11-4a50-b984-4b4c0ed9330c",
+    "sellerId": "d793bc75-56be-4fbb-88d4-4ca6fe90fcc3",
+    "quantityAvailable": 90,
+    "reorderLevel": 5,
+    "createdAt": "2025-07-07T02:42:14.453823Z",
+    "updatedAt": "2025-07-01T02:42:14.453828Z"
+  },
+  {
+    "_id": "f3d6c29c-f066-4b43-9a6f-648a589bdd71",
+    "productId": "4e5d45e2-73a5-4c27-b927-28889fecbbae",
+    "sellerId": "7ea45eed-b006-4b4b-b6b6-674173a6f206",
+    "quantityAvailable": 86,
+    "reorderLevel": 5,
+    "createdAt": "2025-07-06T02:42:14.453836Z",
+    "updatedAt": "2025-07-02T02:42:14.453842Z"
+  },
+  {
+    "_id": "6484ce34-64eb-4d73-bbb4-d6def1ab9b95",
+    "productId": "fedc0e0f-139d-4a33-ba1d-fd248b0ce51d",
+    "sellerId": "f07ea2f6-33a6-4b0d-829f-18da167eabea",
+    "quantityAvailable": 34,
+    "reorderLevel": 5,
+    "createdAt": "2025-07-08T02:42:14.453850Z",
+    "updatedAt": "2025-07-08T02:42:14.453854Z"
+  },
+  {
+    "_id": "4b8207b1-2320-44d2-a1da-7a48231732da",
+    "productId": "d6137c36-abe0-4239-8710-5df77ecec93d",
+    "sellerId": "d3d4303f-a595-4dc9-818d-fca94d28c5cf",
+    "quantityAvailable": 73,
+    "reorderLevel": 5,
+    "createdAt": "2025-07-05T02:42:14.453862Z",
+    "updatedAt": "2025-07-10T02:42:14.453868Z"
+  },
+  {
+    "_id": "4adc4343-39ad-4cd2-bb6e-ff2135de3803",
+    "productId": "931bf7cc-030d-4459-8dc6-3f8940d300df",
+    "sellerId": "b1cc7325-b363-40e9-bec0-9d2a65c52a67",
+    "quantityAvailable": 79,
+    "reorderLevel": 5,
+    "createdAt": "2025-07-11T02:42:14.453876Z",
+    "updatedAt": "2025-07-07T02:42:14.453881Z"
+  },
+  {
+    "_id": "31c1f8b6-4b53-4d54-bec4-d5d3137878ac",
+    "productId": "dd383d5f-8065-4b7f-bccb-783ae1fa0681",
+    "sellerId": "f07ea2f6-33a6-4b0d-829f-18da167eabea",
+    "quantityAvailable": 93,
+    "reorderLevel": 5,
+    "createdAt": "2025-07-02T02:42:14.453890Z",
+    "updatedAt": "2025-07-03T02:42:14.453895Z"
+  },
+  {
+    "_id": "451b3e6e-4119-4f52-80ec-21432ca4a1fa",
+    "productId": "ac865fe8-31cb-4377-8578-3d46c5d98b65",
+    "sellerId": "d3d4303f-a595-4dc9-818d-fca94d28c5cf",
+    "quantityAvailable": 57,
+    "reorderLevel": 5,
+    "createdAt": "2025-07-04T02:42:14.453903Z",
+    "updatedAt": "2025-07-06T02:42:14.453908Z"
+  },
+  {
+    "_id": "ea732d58-045d-43bc-afc1-856d1fb5cc71",
+    "productId": "a5521d83-0f22-4379-a552-6d786d2fba61",
+    "sellerId": "b1cc7325-b363-40e9-bec0-9d2a65c52a67",
+    "quantityAvailable": 69,
+    "reorderLevel": 5,
+    "createdAt": "2025-07-06T02:42:14.453916Z",
+    "updatedAt": "2025-07-04T02:42:14.453921Z"
+  }
+]

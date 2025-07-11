@@ -1,0 +1,132 @@
+[
+  {
+    "_id": "5372f38b-3e76-4668-861a-b2275c0ec0cd",
+    "name": "Product 1",
+    "price": 23880,
+    "categoryId": "0261c3ac-0bee-4121-ba16-669c8071d33a",
+    "sellerId": "d3d4303f-a595-4dc9-818d-fca94d28c5cf",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "createdAt": "2025-07-07T02:42:14.453503Z",
+    "updatedAt": "2025-07-02T02:42:14.453510Z"
+  },
+  {
+    "_id": "fa66213f-f6ac-4abc-b964-bd0245b3267d",
+    "name": "Product 2",
+    "price": 45104,
+    "categoryId": "1f36d747-22c1-43eb-9ad7-351f470bca40",
+    "sellerId": "d3d4303f-a595-4dc9-818d-fca94d28c5cf",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "createdAt": "2025-07-08T02:42:14.453523Z",
+    "updatedAt": "2025-07-09T02:42:14.453528Z"
+  },
+  {
+    "_id": "2a04c145-dd11-4a50-b984-4b4c0ed9330c",
+    "name": "Product 3",
+    "price": 45749,
+    "categoryId": "a890bc66-b696-4527-815a-c41a9dd8da26",
+    "sellerId": "f07ea2f6-33a6-4b0d-829f-18da167eabea",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "createdAt": "2025-07-06T02:42:14.453537Z",
+    "updatedAt": "2025-07-11T02:42:14.453542Z"
+  },
+  {
+    "_id": "4e5d45e2-73a5-4c27-b927-28889fecbbae",
+    "name": "Product 4",
+    "price": 43415,
+    "categoryId": "a890bc66-b696-4527-815a-c41a9dd8da26",
+    "sellerId": "d3d4303f-a595-4dc9-818d-fca94d28c5cf",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "createdAt": "2025-07-02T02:42:14.453552Z",
+    "updatedAt": "2025-07-10T02:42:14.453556Z"
+  },
+  {
+    "_id": "fedc0e0f-139d-4a33-ba1d-fd248b0ce51d",
+    "name": "Product 5",
+    "price": 28947,
+    "categoryId": "bb024fc5-2d3e-43be-98be-ec76a3be5501",
+    "sellerId": "7ea45eed-b006-4b4b-b6b6-674173a6f206",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "createdAt": "2025-07-07T02:42:14.453565Z",
+    "updatedAt": "2025-07-06T02:42:14.453570Z"
+  },
+  {
+    "_id": "d6137c36-abe0-4239-8710-5df77ecec93d",
+    "name": "Product 6",
+    "price": 40079,
+    "categoryId": "a890bc66-b696-4527-815a-c41a9dd8da26",
+    "sellerId": "7ea45eed-b006-4b4b-b6b6-674173a6f206",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "createdAt": "2025-07-03T02:42:14.453577Z",
+    "updatedAt": "2025-07-04T02:42:14.453583Z"
+  },
+  {
+    "_id": "931bf7cc-030d-4459-8dc6-3f8940d300df",
+    "name": "Product 7",
+    "price": 27505,
+    "categoryId": "0261c3ac-0bee-4121-ba16-669c8071d33a",
+    "sellerId": "d793bc75-56be-4fbb-88d4-4ca6fe90fcc3",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "createdAt": "2025-07-03T02:42:14.453591Z",
+    "updatedAt": "2025-07-09T02:42:14.453596Z"
+  },
+  {
+    "_id": "dd383d5f-8065-4b7f-bccb-783ae1fa0681",
+    "name": "Product 8",
+    "price": 37451,
+    "categoryId": "a890bc66-b696-4527-815a-c41a9dd8da26",
+    "sellerId": "b1cc7325-b363-40e9-bec0-9d2a65c52a67",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "createdAt": "2025-07-02T02:42:14.453607Z",
+    "updatedAt": "2025-07-05T02:42:14.453612Z"
+  },
+  {
+    "_id": "ac865fe8-31cb-4377-8578-3d46c5d98b65",
+    "name": "Product 9",
+    "price": 12049,
+    "categoryId": "5960d6ae-b141-4dff-a8bf-2e5df97b41b1",
+    "sellerId": "d793bc75-56be-4fbb-88d4-4ca6fe90fcc3",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "createdAt": "2025-07-10T02:42:14.453620Z",
+    "updatedAt": "2025-07-03T02:42:14.453625Z"
+  },
+  {
+    "_id": "a5521d83-0f22-4379-a552-6d786d2fba61",
+    "name": "Product 10",
+    "price": 33153,
+    "categoryId": "1f36d747-22c1-43eb-9ad7-351f470bca40",
+    "sellerId": "d793bc75-56be-4fbb-88d4-4ca6fe90fcc3",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "createdAt": "2025-07-10T02:42:14.453633Z",
+    "updatedAt": "2025-07-08T02:42:14.453638Z"
+  }
+]

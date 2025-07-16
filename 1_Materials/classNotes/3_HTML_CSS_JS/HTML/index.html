@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Advanced HTML Tags Demo</title>
+
+    <style>
+      #feat-title {
+        color: teal;
+      }
+
+      #feat-list {
+        color: blueviolet;
+      }
+
+      .feat-item {
+        list-style: none;
+      }
+
+      [data-role="admin"] {
+        color: red;
+        font-weight: bold;
+      }
+
+      [data-role="seller"] {
+        color: rgb(90, 50, 50);
+        font-weight: bold;
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <h1>🔰 Advanced HTML Showcase</h1>
+    </header>
+
+    <main>
+      <!-- SECTION 1: Landing block with block vs inline element demo -->
+      <section id="landing">
+        <h2>🔹 Landing Section (Block vs Inline)</h2>
+
+        <!-- Block-level elements -->
+        <h1 style="border: 2px solid red">Welcome to My Website</h1>
+        <p style="border: 2px solid red">This is a simple landing page.</p>
+
+        <!-- Inline-level elements -->
+        <p>
+          <strong style="border: 2px solid red">HTML</strong>
+          <em style="border: 2px solid red">CSS</em>
+          <span style="border: 2px solid red">JavaScript</span>
+        </p>
+      </section>
+
+      <!-- SECTION 2: Selectors demo using id, class, data-* -->
+      <section id="features">
+        <h2>🔹 Features Section (Selectors: id, class, data-role)</h2>
+
+        <h3 id="feat-title">Core Features</h3>
+        <ul id="feat-list">
+          <li class="feat-item">Responsive Layout</li>
+          <li class="feat-item">SEO Friendly</li>
+          <li class="feat-item">Accessible Forms</li>
+          <li class="feat-item">Fast Loading</li>
+          <li class="feat-item">Semantic HTML</li>
+        </ul>
+
+        <!-- Custom data-role attribute examples -->
+        <div data-role="admin">Admin Access Only</div>
+        <div data-role="seller">Seller Access Only</div>
+      </section>
+
+      <!-- SECTION 3: Emmet Planning & Headings -->
+      <section id="structure">
+        <h2>🔹 Layout Structure & Emmet Planning</h2>
+
+        <!-- Emmet: ul#feat-list-2>li.feat-item*5{item $} -->
+        <ul id="feat-list-2">
+          <li class="feat-item">item 1</li>
+          <li class="feat-item">item 2</li>
+          <li class="feat-item">item 3</li>
+          <li class="feat-item">item 4</li>
+          <li class="feat-item">item 5</li>
+        </ul>
+
+        <!-- Emmet: div>h1{heading 1}+h2{heading 2} -->
+        <div>
+          <h1>Main Heading</h1>
+          <h2>Sub Heading</h2>
+        </div>
+
+        <!-- Emmet: form>label+input[type="text"]+input[type="submit"] -->
+        <form action="#">
+          <label for="name">Your Name:</label>
+          <input type="text" id="name" required />
+          <input type="submit" value="Submit" />
+        </form>
+      </section>
+
+      <!-- SECTION 4: Advanced HTML Tags -->
+      <section id="advanced-tags">
+        <h2>🔹 Advanced HTML Elements</h2>
+
+        <!-- FIGURE with figcaption -->
+        <figure style="border: 2px solid red">
+          <img src="sunset.jpg" alt="Sunset" width="200" />
+          <figcaption>Sunset at the Beach</figcaption>
+        </figure>
+
+        <!-- DETAILS and SUMMARY toggle -->
+        <details>
+          <summary>Click to view course topics</summary>
+          <ul>
+            <li>HTML Basics</li>
+            <li>CSS Fundamentals</li>
+            <li>JavaScript Essentials</li>
+          </ul>
+        </details>
+
+        <!-- PROGRESS indicator -->
+        <label for="progress">Project Completion</label>
+        <progress id="progress" value="60" max="100">60%</progress>
+
+        <!-- ABBR for accessibility -->
+        <p>
+          <abbr title="Search Engine Optimization">SEO</abbr> is a key web
+          skill.
+        </p>
+
+        <!-- TIME tag for events or timestamps -->
+        <p>
+          Next update scheduled on
+          <time datetime="2025-07-24">July 24, 2025</time>.
+        </p>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 Advanced HTML Showcase</p>
+    </footer>
+  </body>
+</html>

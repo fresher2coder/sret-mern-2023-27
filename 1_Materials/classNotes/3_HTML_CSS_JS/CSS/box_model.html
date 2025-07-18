@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Box Model Demo</title>
+    <style>
+      .box {
+        width: 200px;
+        height: 100px;
+        background-color: lightblue;
+
+        padding: 20px;
+        border: 5px solid steelblue;
+        margin: 30px;
+
+        box-sizing: content-box; /* default */
+      }
+
+      .border-box {
+        width: 200px;
+        height: 100px;
+        background-color: lightcoral;
+
+        padding: 20px;
+        border: 5px solid darkred;
+        margin: 30px;
+
+        box-sizing: border-box; /* total size includes border & padding */
+      }
+
+      body {
+        font-family: sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>Box Model - content-box (default)</h2>
+    <div class="box">
+      I'm a box! <br />
+      Total size = width + padding + border
+    </div>
+
+    <h2>Box Model - border-box</h2>
+    <div class="border-box">
+      I'm a smarter box! <br />
+      Total size stays at 200px
+    </div>
+  </body>
+</html>

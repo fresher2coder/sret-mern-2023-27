@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Selectors & Units Demo</title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        font-family: Arial, sans-serif;
+        padding: 20px;
+      }
+
+      /* Element selector */
+      h1 {
+        color: steelblue;
+      }
+
+      /* Class selector */
+      .box {
+        background-color: #f0f0f0;
+        padding: 1em;
+        margin: 1rem;
+        width: 50%;
+      }
+
+      /* ID selector */
+      #special {
+        border: 2px solid tomato;
+      }
+
+      /* Descendant selector */
+      .container p {
+        color: darkgreen;
+      }
+
+      /* Child selector */
+      .container > p {
+        font-weight: bold;
+      }
+
+      /* Adjacent sibling */
+      h2 + p {
+        background-color: lightyellow;
+      }
+
+      /* Pseudo-class */
+      a:hover {
+        color: red;
+      }
+
+      /* Attribute selector */
+      input[type="text"] {
+        border: 1px solid gray;
+        padding: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- selectors  -->
+    <h1>Selectors Demo</h1>
+
+    <div class="box" id="special">I am a special box with ID</div>
+
+    <div class="container">
+      <p>I am inside a container (descendant)</p>
+      <p>I am also a direct child (child selector)</p>
+      <div><p>I am not direct child</p></div>
+    </div>
+
+    <h2>Heading 2</h2>
+    <p>I appear right after h2 (adjacent sibling)</p>
+
+    <a href="#">Hover over me</a>
+
+    <br /><br />
+
+    <input type="text" placeholder="Attribute selector targets me" />
+
+    <!-- measurements -->
+    <h1>Measurement Units Demo</h1>
+    <div style="font-size: 16px; margin-top: 2rem">
+      <p style="font-size: 1em">1em = 16px (same as parent)</p>
+      <p style="font-size: 2em">2em = 32px</p>
+      <p style="font-size: 1.5rem">1.5rem = 24px (based on root)</p>
+      <div style="width: 50%; background: lightblue">Width: 50%</div>
+      <div style="width: 300px; background: lightcoral">Width: 300px</div>
+    </div>
+  </body>
+</html>

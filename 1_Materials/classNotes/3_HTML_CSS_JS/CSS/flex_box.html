@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Flexbox Demo</title>
+    <style>
+      .flex-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 1rem;
+
+        padding: 1rem;
+        background-color: #f5f5f5;
+        border: 2px dashed #ccc;
+      }
+
+      .box {
+        flex: 1 1 150px; /* grow, shrink, basis */
+        padding: 1rem;
+        text-align: center;
+        background-color: lightblue;
+        border: 1px solid #333;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>Flexbox Example</h2>
+    <div class="flex-container">
+      <div class="box">Box 1</div>
+      <div class="box">Box 2</div>
+      <div class="box">Box 3</div>
+      <div class="box">Box 4</div>
+    </div>
+  </body>
+</html>

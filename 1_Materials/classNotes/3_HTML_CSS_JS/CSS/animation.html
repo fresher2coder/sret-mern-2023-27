@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS Animations Demo</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        background-color: #f0f8ff;
+        padding: 2rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 2rem;
+      }
+
+      .slide-box {
+        width: 200px;
+        height: 80px;
+        background-color: steelblue;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        animation: slideIn 2s ease-out forwards;
+      }
+
+      @keyframes slideIn {
+        from {
+          transform: translateX(-300px);
+          opacity: 0;
+        }
+        to {
+          transform: translateX(0);
+          opacity: 1;
+        }
+      }
+
+      .bounce-box {
+        width: 100px;
+        height: 100px;
+        background-color: tomato;
+        border-radius: 50%;
+        animation: bounce 1s ease-in-out infinite alternate;
+      }
+
+      @keyframes bounce {
+        from {
+          transform: translateY(0);
+        }
+        to {
+          transform: translateY(-80px);
+        }
+      }
+
+      .spin-box {
+        width: 100px;
+        height: 100px;
+        background-color: mediumseagreen;
+        animation: spin 2s linear infinite;
+      }
+
+      @keyframes spin {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+
+      .fade-box {
+        width: 200px;
+        height: 60px;
+        background-color: purple;
+        color: white;
+        text-align: center;
+        line-height: 60px;
+        opacity: 0;
+        animation: fadeIn 3s ease-in forwards;
+        animation-delay: 1s;
+      }
+
+      @keyframes fadeIn {
+        to {
+          opacity: 1;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <h2>CSS Animations - Keyframes Magic</h2>
+
+    <div class="slide-box">Slide In</div>
+    <div class="bounce-box"></div>
+    <div class="spin-box"></div>
+    <div class="fade-box">Fade In After Delay</div>
+  </body>
+</html>

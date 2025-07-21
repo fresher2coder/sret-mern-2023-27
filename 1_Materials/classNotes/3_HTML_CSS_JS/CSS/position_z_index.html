@@ -31,6 +31,7 @@
         position: relative;
         height: 300px;
         background: #eee;
+        z-index: 500;
       }
 
       .absolute {
@@ -45,14 +46,15 @@
         top: 20px;
         right: 20px;
         background-color: gold;
+        z-index: 101;
       }
 
       .sticky {
         position: sticky;
-        top: 0;
+        top: 20px;
         background-color: plum;
         padding: 1rem;
-        z-index: 100;
+        z-index: 999;
       }
 
       .z-box {

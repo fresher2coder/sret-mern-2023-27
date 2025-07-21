@@ -4,8 +4,13 @@
     <meta charset="UTF-8" />
     <title>Box Model Demo</title>
     <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box; /* sets box-sizing globally */
+      }
       .box {
-        width: 200px;
+        width: 200px; /*content width*/
         height: 100px;
         background-color: lightblue;
 

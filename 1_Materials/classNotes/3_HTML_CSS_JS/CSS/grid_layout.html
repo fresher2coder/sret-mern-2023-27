@@ -11,9 +11,12 @@
         gap: 1rem;
         padding: 1rem;
         background-color: #f0f0f0;
+        /* align-items: center;
+        justify-items: center; */
       }
 
       .grid-item {
+        /* width: 150px; */
         background-color: peachpuff;
         padding: 1.5rem;
         text-align: center;
@@ -22,14 +25,17 @@
       }
 
       .grid-container-2 {
+        height: 100vh;
         display: grid;
         grid-template-areas:
           "header header"
           "sidebar main"
           "footer footer";
         grid-template-columns: 200px 1fr;
-        grid-template-rows: auto 1fr auto;
+        grid-template-rows: 10vh 1fr 10vh;
         gap: 10px;
+        /* align-items: center;
+        justify-items: center; */
       }
 
       .header {
@@ -43,6 +49,8 @@
       .main {
         grid-area: main;
         background: lightblue;
+        /* align-self: center;
+        justify-self: center; */
       }
       .footer {
         grid-area: footer;

@@ -44,3 +44,4 @@ dump/
 *.tgz
 *.swp
 *.swo
+*.numbers
